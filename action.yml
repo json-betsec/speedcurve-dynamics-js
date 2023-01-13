@@ -1,0 +1,6 @@
+name: SpeedCurve dynamic updates
+description: Update SpeedCurve pages to check
+author: Jason McKenzie
+runs:
+  using: docker
+  image: Dockerfile
