@@ -1,4 +1,4 @@
 const exports = await import(
-  `${process.cwd()}/speedcurve-patching/patch-transaction`
+  `${process.cwd()}/.github/workflows/speedcurve-patching/patch-transaction`
 );
 console.log("Hello World!", exports);
