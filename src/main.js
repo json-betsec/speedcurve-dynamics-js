@@ -1,2 +1,2 @@
-const exports = await import("./speedcurve-patching/patch-transaction");
+const exports = await import("/speedcurve-patching/patch-transaction");
 console.log("Hello World!", exports);
